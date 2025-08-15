@@ -71,36 +71,37 @@ Gallardín (David Gallardo Martínez)
   <section>
     <h2 class="verde">🎶 OTROS DATOS</h2>
     <h3>Orquestas</h3>
-    <p>Fantasía Show, Aire Joven, Dirección Sur, Nueva Fase, Carmona.</p>
-    Colaboraciones: Tres en Raya, Tyama, Ácido, Cobalto, Suroeste (SOS)</p>
+    <li> Fantasía Show, Aire Joven, Dirección Sur, Nueva Fase, Carmona.</p>
+    <li>Colaboraciones: Tres en Raya, Tyama, Ácido, Cobalto, Suroeste (SOS)</p>
 
 <h3>Grupos originales</h3>
     <h3></h3>
     <ul>
-     <li>Vehemencia</p> 
-     <li>Winter Moon</p> 
-      <li>Lunendei</p>
-      <li>Medieval's Night</p>
-      <li>Hey Folks!</p>
-      <li>Ex Be-bop</p> 
-      <li>Watermelon Big Band</p>
-      <li>Jazzpacho</p>
-      <li>Paka Manchón Group</p>
-      <li>Luzero</p>
+    <li>Vehemencia (rock estatal)</p> 
+    <li>Serios Incidentes</p>
+    <li>Winter Moon (doom brutal death melódic)</p> 
+    <li>Lunendei (speed folk metal)</p>
+    <li>Medieval's Night (medieval)</p>
+    <li>Hey Folks! (folk rock)</p>
+    <li>Ex Be-bop (jazz)</p> 
+    <li>Watermelon Big Band (jazz)</p>
+    <li>Jazzpacho (jazz)</p>
+    <li>Paka Manchón Group (cantautor)</p>
+    <li>Luzero (rock andaluz)</p>
     </ul>
 <h3>Tributos</h3>
     <ul>
-      <li>Getbackers (The Beatles)</p>
-      <li>Sweet Jade and The Monkeys (Amy Winehouse)</p>
-      <li>Memphis</p>
-      <li>La Movida</p>
-      <li>Garnacha-pop</p>
-      <li>Diversiones</p>
-      <li>M-Pop</p>
-      <li>MusicBox</p>
-      <li>Gato Negro (rock andaluz)</p>
-      <li>Enemigos de lo ajeno (Manolo García y El último de la fila</p>
-      <li>Maymona (Medina Azahara)</p>
+    <li>Getbackers (The Beatles)</p>
+    <li>Sweet Jade and The Monkeys (Amy Winehouse)</p>
+    <li>Memphis (pop rock de la Movida Madrileña)</p>
+    <li>La Movida (pop rock español)</p>
+    <li>Garnacha-pop</p>
+    <li>Diversiones (pop rock español)</p>
+    <li>M-Pop (pop rock español)  </p>
+    <li>MusicBox (pop rock español)</p>
+    <li>Gato Negro (rock andaluz)</p>
+    <li>Enemigos de lo ajeno (Manolo García y El último de la fila</p>
+    <li>Maymona (Medina Azahara)</p>
     </ul>
  
    <h3>Banda Municipal</h3>
@@ -115,7 +116,7 @@ Gallardín (David Gallardo Martínez)
 </section>
 
   <footer>
-    <p>© 2025 Gallardín. Todos los derechos reservados.</p>
+    <p>© 2025 Gallardín.</p>Todos los derechos reservados.</p>
   </footer>
 
 </body>
