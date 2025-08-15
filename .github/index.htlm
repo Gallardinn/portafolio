@@ -1,0 +1,30 @@
+index.html
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Gallardín — Músico y Educador</title>
+  <style>
+    body { font-family: sans-serif; padding: 2rem; background: #f4f4f4; }
+    h1 { color: #333; }
+    section { margin-bottom: 2rem; }
+  </style>
+</head>
+<body>
+  <h1>🎸 David Gallardo — Músico y Educador</h1>
+  <section>
+    <h2>📚 Formación</h2>
+    <ul>
+      <li>Título Superior en Guitarra — Conservatorio Rafael Orozco (2011)</li>
+      <li>Técnico en Guitarra Eléctrica — COM Almendralejo (2016)</li>
+    </ul>
+  </section>
+  <section>
+    <h2>🎶 Experiencia Profesional</h2>
+    <ul>
+      <li>Profesor desde 1990</li>
+      <li>Más de 120 composiciones para YouTube</li>
+    </ul>
+  </section>
+</body>
+</html>
