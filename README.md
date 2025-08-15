@@ -77,7 +77,7 @@ Gallardín (David Gallardo Martínez)
 <h3>Grupos originales</h3>
     <h3></h3>
     <ul>
-      <li>Vehemencia </p>
+      Vehemencia </p>
       Winter Moon </p>
       Lunendei</p>
       Medieval's Night</p>
@@ -89,7 +89,7 @@ Gallardín (David Gallardo Martínez)
       Luzero</p>
     </ul>
 <h3>Tributos</h3>
-    <h3> 
+  
     <ul>
       Getbackers (The Beatles)</p>
       Sweet Jade and The Monkeys (Amy Winehouse)</p>
