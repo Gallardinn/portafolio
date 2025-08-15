@@ -74,29 +74,34 @@ Gallardín (David Gallardo Martínez)
     <p>Fantasía Show, Aire Joven, Dirección Sur, Nueva Fase, Carmona,
     y colaboraciones con Tres en Raya, Tyama, Ácido, Cobalto, Suroeste (SOS)</p>
 
-    <h3>Grupos originales</h3>
+<h3>Grupos originales</h3>
+    <h3></h3>
     <ul>
       <li>Vehemencia, Winter Moon, Lunendei, Medieval's Night</li>
       <li>Hey Folks, Gallardín, Ex Be-bop, Watermelon Big Band</li>
       <li>Jazzpacho, Paka Manchón Group, Luzero</li>
     </ul>
-
-    <h3>Tributos</h3>
+<h3>Tributos</h3>
+    <h3> 
     <ul>
       <li>Getbackers (The Beatles), Sweet Jade and The Monkeys (Amy Winehouse)</li>
       <li>Memphis, La Movida, Garnacha-pop, Diversiones, M-Pop, MusicBox</li>
       <li>Gato Negro, Enemigos de lo ajeno, Maymona</li>
     </ul>
+ 
+   <h3>Banda Municipal</h3>
+    <p>Trompista y trombonista en Almendralejo (1985–2010) </ul>
+       </ul>
+      Colaboraciones con: Ribera del Fresno, Fuente del Maestre, Oliva de Mérida, Villanueva del Fresno</p>
 
-    <h3>Banda Municipal</h3>
-    <p>Trompista y trombonista en Almendralejo (1985–2010), colaboraciones con Ribera del Fresno, Fuente del Maestre, Oliva de Mérida, Villanueva del Fresno</p>
-
+</section>
     <h3>🚗 Carnet de conducir</h3>
     <p>B1 (vehículo propio)</p>
-  </section>
+    
+</section>
 
   <footer>
-    <p>© 2025 David. Todos los derechos reservados.</p>
+    <p>© 2025 Gallardín. Todos los derechos reservados.</p>
   </footer>
 
 </body>
