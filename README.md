@@ -92,7 +92,8 @@ Gallardín (David Gallardo Martínez)
     <ul>
       <li>Getbackers (The Beatles)</p>
       <li>Sweet Jade and The Monkeys (Amy Winehouse)</p>
-      <li>Memphis</p>La Movida</p>
+      <li>Memphis</p>
+      <li>La Movida</p>
       <li>Garnacha-pop</p>
       <li>Diversiones</p>
       <li>M-Pop</p>
