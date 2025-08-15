@@ -77,16 +77,16 @@ Gallardín (David Gallardo Martínez)
 <h3>Grupos originales</h3>
     <h3></h3>
     <ul>
-      Vehemencia </p>
-      Winter Moon </p>
-      Lunendei</p>
-      Medieval's Night</p>
-      Hey Folks!</p>
-      Ex Be-bop</p> 
-      Watermelon Big Band</p>
-      Jazzpacho</p>
-      Paka Manchón Group</p>
-      Luzero</p>
+      Vehemencia 
+      Winter Moon 
+      Lunendei
+      Medieval's Night
+      Hey Folks!
+      Ex Be-bop 
+      Watermelon Big Band
+      Jazzpacho
+      Paka Manchón Group
+      Luzero
     </ul>
 <h3>Tributos</h3>
     <ul>
