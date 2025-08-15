@@ -58,9 +58,9 @@ Gallardín (David Gallardo Martínez)
   <section>
     <h2 class="verde">🎸 EXPERIENCIA PROFESIONAL</h2>
     <ul>
-      <li>Profesor de guitarra clásica y eléctrica — Fuente de Cantos (desde 2008)</li>
+      <li>Profesor de guitarra clásica y eléctrica — Fuente de Cantos (desde 2008 hasta hoy)</li>
       <li>Profesor guitarra y ukelele — Fuente del Maestre (desde 2011 hasta hoy)</li>
-      <li>Profesor guitarra clásica y eléctrica — Fuente de Aceuchal (desde 2019 hasta hoy)</li>
+      <li>Profesor guitarra clásica y eléctrica — Aceuchal (desde 2019 hasta hoy)</li>
       <li>Profesor particular desde 1990</li>
       <li>Actuaciones con bandas, orquestas y grupos</li>
       <li>Arreglos y composiciones para artistas</li>
@@ -71,22 +71,27 @@ Gallardín (David Gallardo Martínez)
   <section>
     <h2 class="verde">🎶 OTROS DATOS</h2>
     <h3>Orquestas</h3>
-    <p>Fantasía Show, Aire Joven, Dirección Sur, Nueva Fase, Carmona,
-    y colaboraciones con Tres en Raya, Tyama, Ácido, Cobalto, Suroeste (SOS)</p>
+    <p>Fantasía Show, Aire Joven, Dirección Sur, Nueva Fase, Carmona.</p>
+    Colaboraciones: Tres en Raya, Tyama, Ácido, Cobalto, Suroeste (SOS)</p>
 
 <h3>Grupos originales</h3>
     <h3></h3>
     <ul>
-      <li>Vehemencia, Winter Moon, Lunendei, Medieval's Night</li>
-      <li>Hey Folks, Gallardín, Ex Be-bop, Watermelon Big Band</li>
-      <li>Jazzpacho, Paka Manchón Group, Luzero</li>
+      <li>Vehemencia, </li>
+      Winter Moon </li>Lunendei </li> 
+      Medieval's Night</li>
+      <li>Hey Folks!</li>
+      Ex Be-bop</li>
+        Watermelon Big Band</li>
+      <li>Jazzpacho</li>
+        Paka Manchón Group</li>Luzero</li>
     </ul>
 <h3>Tributos</h3>
     <h3> 
     <ul>
-      <li>Getbackers (The Beatles), Sweet Jade and The Monkeys (Amy Winehouse)</li>
-      <li>Memphis, La Movida, Garnacha-pop, Diversiones, M-Pop, MusicBox</li>
-      <li>Gato Negro, Enemigos de lo ajeno, Maymona</li>
+      <li>Getbackers (The Beatles)</li>Sweet Jade and The Monkeys (Amy Winehouse)</li>
+      <li>Memphis</li>La Movida</li>Garnacha-pop</li>Diversiones</li>M-Pop</li>MusicBox</li>
+      <li>Gato Negro (rock andaluz)</li>Enemigos de lo ajeno (Manolo García y El último de la fila)</li>Maymona (Medina Azahara)</li>
     </ul>
  
    <h3>Banda Municipal</h3>
