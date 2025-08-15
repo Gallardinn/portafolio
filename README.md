@@ -77,29 +77,29 @@ Gallardín (David Gallardo Martínez)
 <h3>Grupos originales</h3>
     <h3></h3>
     <ul>
-      Vehemencia 
-      Winter Moon 
-      Lunendei
-      Medieval's Night
-      Hey Folks!
-      Ex Be-bop 
-      Watermelon Big Band
-      Jazzpacho
-      Paka Manchón Group
-      Luzero
+     <li>Vehemencia</p> 
+     <li>Winter Moon</p> 
+      <li>Lunendei</p>
+      <li>Medieval's Night</p>
+      <li>Hey Folks!</p>
+      <li>Ex Be-bop</p> 
+      <li>Watermelon Big Band</p>
+      <li>Jazzpacho</p>
+      <li>Paka Manchón Group</p>
+      <li>Luzero</p>
     </ul>
 <h3>Tributos</h3>
     <ul>
-      Getbackers (The Beatles)</p>
-      Sweet Jade and The Monkeys (Amy Winehouse)</p>
-      Memphis</p>La Movida</p>
-      Garnacha-pop</p>
-      Diversiones</p>
-      M-Pop</p>
-      MusicBox</p>
-      Gato Negro (rock andaluz)</p>
-      Enemigos de lo ajeno (Manolo García y El último de la fila</p>
-      Maymona (Medina Azahara)</p>
+      <li>Getbackers (The Beatles)</p>
+      <li>Sweet Jade and The Monkeys (Amy Winehouse)</p>
+      <li>Memphis</p>La Movida</p>
+      <li>Garnacha-pop</p>
+      <li>Diversiones</p>
+      <li>M-Pop</p>
+      <li>MusicBox</p>
+      <li>Gato Negro (rock andaluz)</p>
+      <li>Enemigos de lo ajeno (Manolo García y El último de la fila</p>
+      <li>Maymona (Medina Azahara)</p>
     </ul>
  
    <h3>Banda Municipal</h3>
