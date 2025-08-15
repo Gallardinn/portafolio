@@ -106,7 +106,7 @@ Gallardín (David Gallardo Martínez)
    <h3>Banda Municipal</h3>
     <p>Trompista y trombonista en Almendralejo (1985–2010) </ul>
        </ul>
-      </p> Colaboraciones con: Ribera del Fresno, Fuente del Maestre, Oliva de Mérida, Villanueva del Fresno</p>
+      </p> Colaboraciones con: Ribera del Fresno, Fuente de Cantos, Oliva de Mérida, Villanueva del Fresno</p>
 
 </section>
     <h3>🚗 Carnet de conducir</h3>
