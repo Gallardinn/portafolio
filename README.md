@@ -89,7 +89,6 @@ Gallardín (David Gallardo Martínez)
       Luzero</p>
     </ul>
 <h3>Tributos</h3>
-  
     <ul>
       Getbackers (The Beatles)</p>
       Sweet Jade and The Monkeys (Amy Winehouse)</p>
@@ -99,8 +98,8 @@ Gallardín (David Gallardo Martínez)
       M-Pop</p>
       MusicBox</p>
       Gato Negro (rock andaluz)</p>
-        Enemigos de lo ajeno (Manolo García y El último de la fila</p>
-        Maymona (Medina Azahara)</p>
+      Enemigos de lo ajeno (Manolo García y El último de la fila</p>
+      Maymona (Medina Azahara)</p>
     </ul>
  
    <h3>Banda Municipal</h3>
