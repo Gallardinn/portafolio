@@ -13,7 +13,7 @@ Gallardín (David Gallardo Martínez)
 <body>
 
   <header>
-    <h1>🎸 David — Músico y Educador</h1>
+    <h1>🎸 David Gallardo — Músico y Educador</h1>
     <p>Guitarrista profesional, compositor, docente y apasionado por la música y la formación continua.</p>
   </header>
 
@@ -59,7 +59,8 @@ Gallardín (David Gallardo Martínez)
     <h2 class="verde">🎸 EXPERIENCIA PROFESIONAL</h2>
     <ul>
       <li>Profesor de guitarra clásica y eléctrica — Fuente de Cantos (desde 2008)</li>
-      <li>Profesor — Fuente del Maestre (desde 2011 y 2015)</li>
+      <li>Profesor guitarra y ukelele — Fuente del Maestre (desde 2011 hasta hoy)</li>
+      <li>Profesor guitarra clásica y eléctrica — Fuente de Aceuchal (desde 2019 hasta hoy)</li>
       <li>Profesor particular desde 1990</li>
       <li>Actuaciones con bandas, orquestas y grupos</li>
       <li>Arreglos y composiciones para artistas</li>
@@ -70,7 +71,8 @@ Gallardín (David Gallardo Martínez)
   <section>
     <h2 class="verde">🎶 OTROS DATOS</h2>
     <h3>Orquestas</h3>
-    <p>Fantasía Show, Aire Joven, Dirección Sur, Nueva Fase, Carmona, y colaboraciones con Tres en Raya, Tyama, Ácido, Cobalto, Suroeste (SOS)</p>
+    <p>Fantasía Show, Aire Joven, Dirección Sur, Nueva Fase, Carmona,
+    y colaboraciones con Tres en Raya, Tyama, Ácido, Cobalto, Suroeste (SOS)</p>
 
     <h3>Grupos originales</h3>
     <ul>
