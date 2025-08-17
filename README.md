@@ -78,7 +78,8 @@ Gallardín (David Gallardo Martínez)
     <h3></h3>
     <ul>
     <li>Vehemencia (rock estatal)</p> 
-    <li>Serios Incidentes</p>
+    <li>Serios Incidentes (rock) </p>
+    <li>Gallardín (música propia)</p>
     <li>Winter Moon (doom brutal death melódic)</p> 
     <li>Lunendei (speed folk metal)</p>
     <li>Medieval's Night (medieval)</p>
