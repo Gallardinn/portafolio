@@ -33,6 +33,7 @@ Gallardín (David Gallardo Martínez)
       <li>Biomúsica — UEX, Badajoz</li>
       <li>Lenguaje musical: Método Kodaly — Almendralejo</li>
       <li>Guitarra — Ciudad de Llerena con Javier Riba</li>
+      <li>Pedagogía de la guitarra - Carles Trepat<li>
       <li>Composición aplicada a la guitarra — Leo Brouwer, Córdoba</li>
       <li>Composición — Tony Domenech (online)</li>
       <li>La música de John Williams — Tony Domenech</li>
