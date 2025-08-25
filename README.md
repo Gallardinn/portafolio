@@ -97,19 +97,19 @@ Gallardín (David Gallardo Martínez)
     <li>Sweet Jade and The Monkeys (Amy Winehouse)</p>
     <li>Memphis (pop rock de la Movida Madrileña)</p>
     <li>La Movida (pop rock español)</p>
-    <li>Garnacha-pop</p>
+    <li>Garnacha-pop (rock español)</p>
     <li>Diversiones (pop rock español)</p>
     <li>M-Pop (pop rock español)  </p>
     <li>MusicBox (pop rock español)</p>
     <li>Gato Negro (rock andaluz)</p>
-    <li>Enemigos de lo ajeno (Manolo García y El último de la fila</p>
+    <li>Enemigos de lo ajeno (Manolo García y El último de la fila)</p>
     <li>Maymona (Medina Azahara)</p>
     </ul>
  
    <h3>Banda Municipal</h3>
     <p>Trompista y trombonista en Almendralejo (1985–2010) </ul>
        </ul>
-      </p> Colaboraciones con: Ribera del Fresno, Fuente de Cantos, Oliva de Mérida, Villanueva del Fresno</p>
+      </p> Colaboraciones con otras bandas: Ribera del Fresno, Fuente de Cantos, Oliva de Mérida, Villanueva del Fresno</p>
 
 </section>
     <h3>🚗 Carnet de conducir</h3>
