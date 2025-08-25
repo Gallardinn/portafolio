@@ -24,8 +24,7 @@
   <section>
     <h2 class="verde">🎓 CURSOS</h2>
     <ul>
-      <li>CAP — UEX, Badajoz</li>
-      <li>Pedagogía de la guitarra — Ciudad de Coria</li>
+      <li>CAP (Certificado de Aptitud Pedagógica) — UEX, Badajoz</li>
       <li>Biomúsica — UEX, Badajoz</li>
       <li>Lenguaje musical: Método Kodaly — Almendralejo</li>
       <li>Guitarra — Ciudad de Llerena - Javier Riba</li>
