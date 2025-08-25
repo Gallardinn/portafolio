@@ -113,7 +113,19 @@
   <h3>🚗 Carnet de conducir</h3>
   <p>B1 (vehículo propio)</p>
   </section>
+<section id="youtube">
+      <h2>📺 YouTube Gallardín</h2>
+      <p>https://www.youtube.com/@gallard%C3%ADnn222</p>
+    </section>
 
+   <section id="backing">
+      <h2>🎧 Backing Track Channel</h2>
+      <p>https://www.youtube.com/channel/UC6W4kWYmR1LeKQysmDbgJLQ</p>
+    </section>
+  </main>
+
+</body>
+</html>
   <footer>
     <p>© 2025 Gallardín. Todos los derechos reservados.</p>
   </footer>
