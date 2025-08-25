@@ -32,9 +32,10 @@ Gallardín (David Gallardo Martínez)
       <li>Pedagogía de la guitarra — Ciudad de Coria</li>
       <li>Biomúsica — UEX, Badajoz</li>
       <li>Lenguaje musical: Método Kodaly — Almendralejo</li>
-      <li>Guitarra — Ciudad de Llerena con Javier Riba</li>
+      <li>Guitarra — Ciudad de Llerena - Javier Riba</li>
+      <li>Guitarra — Ciudad de Coria - Hugo Geller, Joaquín Clerch, Ricardo Gallén</li>
       <li>Pedagogía de la guitarra - Carles Trepat
-     <li>Composición aplicada a la guitarra — Leo Brouwer, Córdoba</li>
+     <li>Composición aplicada a la guitarra — Leo Brouwer</li>
       <li>Composición — Tony Domenech (online)</li>
       <li>La música de John Williams — Tony Domenech</li>
     </ul>
