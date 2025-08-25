@@ -13,7 +13,7 @@ Gallardín (David Gallardo Martínez)
 <body>
 
   <header>
-    <h1>🎸 David Gallardo — Músico y Educador</h1>
+    <h1>🎸 Músico y Educador</h1>
     <p>Guitarrista profesional, compositor, docente y apasionado por la música y la formación continua.</p>
   </header>
 
