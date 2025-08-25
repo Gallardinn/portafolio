@@ -67,6 +67,7 @@ Gallardín (David Gallardo Martínez)
       <li>Actuaciones con bandas, orquestas y grupos</li>
       <li>Arreglos y composiciones para artistas</li>
       <li>Más de 120 composiciones para el canal de YouTube <strong>Teoría Musical</strong></li>
+      <li>Creación de música para varios cortos y videojuegos</li>
     </ul>
   </section>
 
