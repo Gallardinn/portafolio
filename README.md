@@ -34,6 +34,7 @@
       <li>Pedagogía de la guitarra - Carles Trepat</li>
       <li>Composición aplicada a la guitarra — Leo Brouwer</li>
       <li>Composición — Tony Domenech (online)</li>
+      <li>Rearmonización de melodías — Tony Domenech</li>
       <li>La música de John Williams — Tony Domenech</li>
     </ul>
   </section>
