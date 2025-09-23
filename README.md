@@ -65,7 +65,8 @@
       <li>Actuaciones con bandas, orquestas y grupos</li>
       <li>Arreglos y composiciones para artistas</li>
       <li>Más de 120 composiciones para el canal de YouTube <strong>Teoría Musical</strong></li>
-      <li>Creación de música para varios cortos y videojuegos</li>
+      <li>Creación de música para varios cortos y videojuegos</<li>
+      <li> Creación de un videojuego completo "Las Aventuras del Sultán"</li>
     </ul>
   </section>
 
@@ -110,7 +111,7 @@
     </ul>
 
   <h3>Banda Municipal</h3>
-    <p>Trompista y trombonista en Almendralejo (1985–2010). Colaboraciones con otras bandas: Ribera del Fresno, Fuente de Cantos, Oliva de Mérida, Villanueva del Fresno.</p>
+    <p>Trompista y trombonista en Almendralejo (1985–2010). Colaboraciones con otras bandas: Ribera del Fresno, Fuente de Cantos, Oliva de Mérida, Villanueva del Fresno, Hornachos.</p>
 
   <h3>🚗 Carnet de conducir</h3>
   <p>B1 (vehículo propio)</p>
