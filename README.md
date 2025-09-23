@@ -7,15 +7,14 @@
   <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
-
   <main>
     <header>
       <h1>🎸 Músico y Educador</h1>
       <p>Guitarrista profesional, compositor, docente y apasionado por la música y la formación continua.</p>
-    </header> 
+    </header>
 
     <section>
-      <h2 class="verde">📚 FORMACIÓN</h2>
+      <h2>📚 FORMACIÓN</h2>
       <ul>
         <li>Título Superior en Guitarra — Conservatorio Rafael Orozco (Córdoba), 2011</li>
         <li>Técnico en Guitarra Eléctrica — COM Almendralejo (Badajoz), 2016</li>
@@ -23,7 +22,7 @@
     </section>
 
     <section>
-      <h2 class="verde">🎓 CURSOS</h2>
+      <h2>🎓 CURSOS</h2>
       <ul>
         <li>CAP (Certificado de Aptitud Pedagógica) — UEX, Badajoz</li>
         <li>Biomúsica — UEX, Badajoz</li>
@@ -39,7 +38,7 @@
     </section>
 
     <section>
-      <h2 class="verde">💻 CONOCIMIENTOS INFORMÁTICOS</h2>
+      <h2>💻 CONOCIMIENTOS INFORMÁTICOS</h2>
       <ul>
         <li>Office, páginas web (Windows, iOS, Apple)</li>
         <li>Sibelius, Finale, Cubase, Adobe Audition, Band in a Box</li>
@@ -47,7 +46,7 @@
     </section>
 
     <section>
-      <h2 class="verde">🌍 IDIOMAS</h2>
+      <h2>🌍 IDIOMAS</h2>
       <ul>
         <li>Portugués intermedio — EOI (B1)</li>
         <li>Inglés intermedio — EOI (B1.1)</li>
@@ -55,7 +54,7 @@
     </section>
 
     <section>
-      <h2 class="verde">🎸 EXPERIENCIA PROFESIONAL</h2>
+      <h2>🎸 EXPERIENCIA PROFESIONAL</h2>
       <ul>
         <li>Profesor de guitarra clásica y eléctrica — Fuente de Cantos (desde 2008 hasta hoy)</li>
         <li>Profesor guitarra y ukelele — Fuente del Maestre (desde 2011 hasta hoy)</li>
@@ -70,7 +69,7 @@
     </section>
 
     <section>
-      <h2 class="verde">🎶 OTROS DATOS</h2>
+      <h2>🎶 OTROS DATOS</h2>
 
       <h3>Orquestas</h3>
       <ul>
@@ -130,7 +129,7 @@
       <p>© 2025 Gallardín. Todos los derechos reservados.</p>
     </footer>
   </main>
-
 </body>
-</html> 
+</html>
+
 
