@@ -1,3 +1,5 @@
+/* Fondo general y color de texto */ body { background-color: #000000; color: #ffffff; font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; }
+/* Para asegurarte de que títulos y párrafos también sean blancos */ h1, h2, h3, p, li { color: #ffffff; }
 <!DOCTYPE html>
 <html lang="es">
 <head>
@@ -128,7 +130,7 @@
     </section>
 
     <footer>
-      <p>© 2025 Gallardín. Todos los derechos reservados.</p>
+      <p>© 2026 Gallardín. Todos los derechos reservados.</p>
     </footer>
   </main>
 </body>
