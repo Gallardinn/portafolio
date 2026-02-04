@@ -23,7 +23,7 @@ header p {
   text-align: center;
 }
 
-/* ======== ICONOS CON EFECTO LATIDO ======== */
+/* ======== ICONOS CON EFECTO LATIDO (SOLO ICONOS) ======== */
 .icono {
   display: inline-block;
   animation: latido 2s infinite;
@@ -40,6 +40,7 @@ h2 {
   font-size: 1.8rem;
   color: #39ff14;
   margin-bottom: 10px;
+  animation: none; /* IMPORTANTE: evita que el texto lata */
 }
 
 h3 {
