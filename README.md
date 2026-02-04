@@ -1,5 +1,3 @@
-/* Fondo general y color de texto */ body { background-color: #000000; color: #ffffff; font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; }
-/* Para asegurarte de que títulos y párrafos también sean blancos */ h1, h2, h3, p, li { color: #ffffff; }
 <!DOCTYPE html>
 <html lang="es">
 <head>
@@ -14,7 +12,6 @@
       <h1>🎸 Músico y Educador</h1>
       <p>Guitarrista profesional, compositor, docente y apasionado por la música y la formación continua.</p>
     </header>
-
     <section>
       <h2>📚 FORMACIÓN</h2>
       <ul>
@@ -22,7 +19,6 @@
         <li>Técnico en Guitarra Eléctrica — COM Almendralejo (Badajoz), 2016</li>
       </ul>
     </section>
-
     <section>
       <h2>🎓 CURSOS</h2>
       <ul>
@@ -40,7 +36,6 @@
         <li>Armonía moderna — Tony Domenech</li>
       </ul>
     </section>
-
     <section>
       <h2>💻 CONOCIMIENTOS INFORMÁTICOS</h2>
       <ul>
@@ -48,7 +43,6 @@
         <li>Sibelius, Finale, Cubase, Adobe Audition, Band in a Box</li>
       </ul>
     </section>
-
     <section>
       <h2>🌍 IDIOMAS</h2>
       <ul>
@@ -56,7 +50,6 @@
         <li>Inglés intermedio — EOI (B1.1)</li>
       </ul>
     </section>
-
     <section>
       <h2>🎸 EXPERIENCIA PROFESIONAL</h2>
       <ul>
@@ -71,16 +64,13 @@
         <li>Creación de un videojuego completo "Las Aventuras del Sultán"</li>
       </ul>
     </section>
-
     <section>
       <h2>🎶 OTROS DATOS</h2>
-
       <h3>Orquestas</h3>
       <ul>
         <li>Fantasía Show, Aire Joven, Dirección Sur, Nueva Fase, Carmona</li>
         <li>Colaboraciones: Tres en Raya, Tyama, Ácido, Cobalto, Suroeste (SOS)</li>
       </ul>
-
       <h3>Grupos originales</h3>
       <ul>
         <li>Vehemencia (rock estatal)</li>
@@ -96,7 +86,6 @@
         <li>Paka Manchón Group (cantautor)</li>
         <li>Luzero (rock andaluz)</li>
       </ul>
-
       <h3>Tributos</h3>
       <ul>
         <li>Getbackers (The Beatles)</li>
@@ -111,24 +100,19 @@
         <li>Enemigos de lo ajeno (Manolo García y El último de la fila)</li>
         <li>Maymona (Medina Azahara)</li>
       </ul>
-
       <h3>Banda Municipal</h3>
       <p>Trompista y trombonista en Almendralejo (1985–2010). Colaboraciones con otras bandas: Ribera del Fresno, Fuente de Cantos, Oliva de Mérida, Villanueva del Fresno, Hornachos.</p>
-
       <h3>🚗 Carnet de conducir</h3>
       <p>B1 (vehículo propio)</p>
     </section>
-
     <section id="youtube">
       <h2>📺 YouTube Gallardín</h2>
       <p><a href="https://www.youtube.com/@gallard%C3%ADnn222" target="_blank">https://www.youtube.com/@gallard%C3%ADnn222</a></p>
     </section>
-
     <section id="backing">
       <h2>🎧 Backing Track Channel</h2>
       <p><a href="https://www.youtube.com/channel/UC6W4kWYmR1LeKQysmDbgJLQ" target="_blank">https://www.youtube.com/channel/UC6W4kWYmR1LeKQysmDbgJLQ</a></p>
     </section>
-
     <footer>
       <p>© 2026 Gallardín. Todos los derechos reservados.</p>
     </footer>
