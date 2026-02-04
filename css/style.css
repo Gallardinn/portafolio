@@ -1,0 +1,71 @@
+/* ======== ESTILO GENERAL ======== */
+body {
+  background-color: #000;        /* Fondo negro */
+  color: #fff;                   /* Texto blanco */
+  font-family: "Segoe UI", Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  line-height: 1.6;
+}
+
+/* Contenedor principal */
+main {
+  max-width: 900px;
+  margin: auto;
+  padding: 20px;
+}
+
+/* ======== ENCABEZADOS ======== */
+h1 {
+  font-size: 2.6rem;
+  text-align: center;
+  margin-top: 20px;
+  color: #39ff14;                /* Verde fosforito */
+}
+
+h2 {
+  margin-top: 40px;
+  font-size: 1.8rem;
+  color: #39ff14;                /* Verde fosforito */
+  border-bottom: 2px solid #39ff14;
+  padding-bottom: 5px;
+}
+
+h3 {
+  margin-top: 25px;
+  font-size: 1.3rem;
+  color: #00eaff;                /* Azul eléctrico */
+}
+
+/* ======== LISTAS ======== */
+ul {
+  list-style: none;
+  padding-left: 0;
+}
+
+ul li {
+  background: #111;              /* Tarjeta oscura */
+  padding: 10px;
+  margin-bottom: 6px;
+  border-left: 4px solid #39ff14; /* Línea verde fosforito */
+  border-radius: 4px;
+}
+
+/* ======== ENLACES ======== */
+a {
+  color: #39ff14;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* ======== FOOTER ======== */
+footer {
+  text-align: center;
+  margin-top: 40px;
+  padding: 20px;
+  color: #aaa;
+  font-size: 0.9rem;
+}
