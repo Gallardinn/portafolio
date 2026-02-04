@@ -17,8 +17,10 @@
     <section>
       <details>
         <summary>
-          <h2>📚 FORMACIÓN</h2>
-          <div class="flecha">▼</div>
+          <div class="titulo-flecha">
+            <h2>📚 FORMACIÓN</h2>
+            <span class="flecha">▾</span>
+          </div>
         </summary>
         <div class="contenido">
           <ul>
@@ -32,8 +34,10 @@
     <section>
       <details>
         <summary>
-          <h2>🎓 CURSOS</h2>
-          <div class="flecha">▼</div>
+          <div class="titulo-flecha">
+            <h2>🎓 CURSOS</h2>
+            <span class="flecha">▾</span>
+          </div>
         </summary>
         <div class="contenido">
           <ul>
@@ -57,8 +61,10 @@
     <section>
       <details>
         <summary>
-          <h2>💻 CONOCIMIENTOS INFORMÁTICOS</h2>
-          <div class="flecha">▼</div>
+          <div class="titulo-flecha">
+            <h2>💻 CONOCIMIENTOS INFORMÁTICOS</h2>
+            <span class="flecha">▾</span>
+          </div>
         </summary>
         <div class="contenido">
           <ul>
@@ -72,8 +78,10 @@
     <section>
       <details>
         <summary>
-          <h2>🌍 IDIOMAS</h2>
-          <div class="flecha">▼</div>
+          <div class="titulo-flecha">
+            <h2>🌍 IDIOMAS</h2>
+            <span class="flecha">▾</span>
+          </div>
         </summary>
         <div class="contenido">
           <ul>
@@ -87,8 +95,10 @@
     <section>
       <details>
         <summary>
-          <h2>🎸 EXPERIENCIA PROFESIONAL</h2>
-          <div class="flecha">▼</div>
+          <div class="titulo-flecha">
+            <h2>🎸 EXPERIENCIA PROFESIONAL</h2>
+            <span class="flecha">▾</span>
+          </div>
         </summary>
         <div class="contenido">
           <ul>
@@ -109,8 +119,10 @@
     <section>
       <details>
         <summary>
-          <h2>🎶 OTROS DATOS</h2>
-          <div class="flecha">▼</div>
+          <div class="titulo-flecha">
+            <h2>🎶 OTROS DATOS</h2>
+            <span class="flecha">▾</span>
+          </div>
         </summary>
         <div class="contenido">
           <h3>Orquestas</h3>
@@ -136,7 +148,7 @@
         </div>
       </details>
     </section>
-    <!-- ENLACES (sin desplegable, con animación suave) -->
+    <!-- ENLACES -->
     <section class="enlaces">
       <h2>🔗 Enlaces</h2>
       <p><a href="https://www.youtube.com/@gallard%C3%ADnn222" target="_blank">YouTube Gallardín</a></p>
