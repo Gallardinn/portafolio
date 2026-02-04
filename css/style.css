@@ -1,14 +1,13 @@
 /* ======== ESTILO GENERAL ======== */
 body {
-  background-color: #000;        /* Fondo negro */
-  color: #fff;                   /* Texto blanco */
+  background-color: #000;
+  color: #fff;
   font-family: "Segoe UI", Arial, sans-serif;
   margin: 0;
   padding: 0;
   line-height: 1.6;
 }
 
-/* Contenedor principal */
 main {
   max-width: 900px;
   margin: auto;
@@ -20,21 +19,19 @@ h1 {
   font-size: 2.6rem;
   text-align: center;
   margin-top: 20px;
-  color: #39ff14;                /* Verde fosforito */
+  color: #39ff14; /* Verde fosforito */
 }
 
 h2 {
-  margin-top: 40px;
   font-size: 1.8rem;
-  color: #39ff14;                /* Verde fosforito */
+  color: #39ff14;
   border-bottom: 2px solid #39ff14;
   padding-bottom: 5px;
 }
 
 h3 {
-  margin-top: 25px;
   font-size: 1.3rem;
-  color: #00eaff;                /* Azul eléctrico */
+  color: #00eaff; /* Azul eléctrico */
 }
 
 /* ======== LISTAS ======== */
@@ -44,21 +41,43 @@ ul {
 }
 
 ul li {
-  background: #111;              /* Tarjeta oscura */
+  background: #111;
   padding: 10px;
   margin-bottom: 6px;
-  border-left: 4px solid #39ff14; /* Línea verde fosforito */
+  border-left: 4px solid #39ff14;
   border-radius: 4px;
 }
 
 /* ======== ENLACES ======== */
 a {
-  color: #39ff14;
+  color: #00aaff; /* Azul brillante */
   text-decoration: none;
 }
 
 a:hover {
   text-decoration: underline;
+}
+
+/* ======== DETALLES (DESPLEGABLES) ======== */
+details {
+  background: #111;
+  padding: 10px 15px;
+  margin-bottom: 20px;
+  border-radius: 6px;
+  border: 1px solid #39ff14;
+}
+
+summary {
+  cursor: pointer;
+  list-style: none;
+}
+
+summary::-webkit-details-marker {
+  display: none;
+}
+
+summary h2 {
+  display: inline;
 }
 
 /* ======== FOOTER ======== */
@@ -69,3 +88,4 @@ footer {
   color: #aaa;
   font-size: 0.9rem;
 }
+
