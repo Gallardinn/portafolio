@@ -8,7 +8,6 @@
 </head>
 
 <body class="oscuro">
-  <button id="modoToggle">Modo claro/oscuro</button>
 
   <main>
     <header>
@@ -170,16 +169,6 @@
     </footer>
 
   </main>
-
-  <script>
-    const boton = document.getElementById("modoToggle");
-    const body = document.body;
-
-    boton.addEventListener("click", () => {
-      body.classList.toggle("oscuro");
-      body.classList.toggle("claro");
-    });
-  </script>
 
 </body>
 </html>
