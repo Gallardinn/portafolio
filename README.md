@@ -165,7 +165,7 @@
       </details>
     </section>
     <footer>
-      <p>© 2026 Gallardín. Todos los derechos reservados.</p>
+      <p class="footer-text">© 2026 Gallardín. Todos los derechos reservados.</p>
     </footer>
 
   </main>
