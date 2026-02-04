@@ -1,6 +1,6 @@
-/* ======== FONDO GRIS OSCURO CON DEGRADADO SUAVE ======== */
+/* ======== FONDO GRIS OSCURO CON DEGRADADO ======== */
 body.oscuro {
-  background: linear-gradient(180deg, #1a1a1a, #222, #1a1a1a);
+  background: linear-gradient(180deg, #1a1a1a, #2a2a2a, #1a1a1a);
   color: #fff;
 }
 
@@ -17,7 +17,6 @@ h1 {
   text-align: center;
   margin-top: 20px;
   color: #39ff14;
-  animation: latido 2s infinite;
 }
 
 header p {
@@ -26,12 +25,13 @@ header p {
 
 /* ======== ICONOS CON EFECTO LATIDO ======== */
 .icono {
+  display: inline-block;
   animation: latido 2s infinite;
 }
 
 @keyframes latido {
   0% { transform: scale(1); }
-  50% { transform: scale(1.08); }
+  50% { transform: scale(1.15); }
   100% { transform: scale(1); }
 }
 
@@ -50,8 +50,8 @@ h3 {
 /* ======== CUADROS CON GLOW ANIMADO ======== */
 details {
   background: #111;
-  padding: 15px 20px;
-  margin-bottom: 35px; /* MÁS SEPARACIÓN ENTRE CUADROS */
+  padding: 20px;
+  margin-bottom: 40px; /* MÁS SEPARACIÓN ENTRE CUADROS */
   border-radius: 6px;
   border: 1px solid #39ff14;
   animation: neonGlow 2s infinite alternate;
@@ -59,10 +59,10 @@ details {
 
 @keyframes neonGlow {
   from { box-shadow: 0 0 10px #39ff14; }
-  to   { box-shadow: 0 0 25px #39ff14; }
+  to   { box-shadow: 0 0 30px #39ff14; }
 }
 
-/* ======== FLECHA MODERNA ======== */
+/* ======== FLECHA ======== */
 .titulo-flecha {
   display: flex;
   justify-content: space-between;
