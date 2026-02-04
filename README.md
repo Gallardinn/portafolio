@@ -19,7 +19,7 @@
       <details>
         <summary>
           <div class="titulo-flecha">
-            <h2><span class="icono">📚</span> FORMACIÓN</h2>
+           <h2><span class="icono">📚</span> FORMACIÓN</h2>
             <span class="flecha">▾</span>
           </div>
         </summary>
