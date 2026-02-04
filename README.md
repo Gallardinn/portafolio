@@ -7,7 +7,9 @@
   <link rel="stylesheet" href="css/style.css">
 </head>
 
-<body>
+<body class="oscuro">
+  <button id="modoToggle">Modo claro/oscuro</button>
+
   <main>
     <header>
       <h1>🎸 Músico y Educador</h1>
@@ -149,15 +151,35 @@
       </details>
     </section>
     <!-- ENLACES -->
-    <section class="enlaces">
-      <h2>🔗 Enlaces</h2>
-      <p><a href="https://www.youtube.com/@gallard%C3%ADnn222" target="_blank">YouTube Gallardín</a></p>
-      <p><a href="https://www.youtube.com/channel/UC6W4kWYmR1LeKQysmDbgJLQ" target="_blank">Backing Track Channel</a></p>
+    <section>
+      <details open>
+        <summary>
+          <div class="titulo-flecha">
+            <h2>🔗 ENLACES</h2>
+            <span class="flecha">▾</span>
+          </div>
+        </summary>
+        <div class="contenido enlaces-lista">
+          <p><a href="https://www.youtube.com/@gallard%C3%ADnn222" target="_blank">YouTube Gallardín</a></p>
+          <p><a href="https://www.youtube.com/channel/UC6W4kWYmR1LeKQysmDbgJLQ" target="_blank">Backing Track Channel</a></p>
+        </div>
+      </details>
     </section>
     <footer>
       <p>© 2026 Gallardín. Todos los derechos reservados.</p>
     </footer>
+
   </main>
+
+  <script>
+    const boton = document.getElementById("modoToggle");
+    const body = document.body;
+
+    boton.addEventListener("click", () => {
+      body.classList.toggle("oscuro");
+      body.classList.toggle("claro");
+    });
+  </script>
+
 </body>
 </html>
-
