@@ -35,6 +35,7 @@
         <li>Rearmonización de melodías — Tony Domenech</li>
         <li>La música de John Williams — Tony Domenech</li>
         <li>Orquestación y arreglos — Tony Domenech</li>
+        <li>Armonía moderna — Tony Domenech</li>
       </ul>
     </section>
 
