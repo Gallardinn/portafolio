@@ -19,7 +19,7 @@
       <details>
         <summary>
           <div class="titulo-flecha">
-            <h2>📚 FORMACIÓN</h2>
+            <h2 class="icono">📚 FORMACIÓN</h2>
             <span class="flecha">▾</span>
           </div>
         </summary>
@@ -36,7 +36,7 @@
       <details>
         <summary>
           <div class="titulo-flecha">
-            <h2>🎓 CURSOS</h2>
+            <h2 class="icono">🎓 CURSOS</h2>
             <span class="flecha">▾</span>
           </div>
         </summary>
@@ -63,7 +63,7 @@
       <details>
         <summary>
           <div class="titulo-flecha">
-            <h2>💻 CONOCIMIENTOS INFORMÁTICOS</h2>
+            <h2 class="icono">💻 CONOCIMIENTOS INFORMÁTICOS</h2>
             <span class="flecha">▾</span>
           </div>
         </summary>
@@ -80,7 +80,7 @@
       <details>
         <summary>
           <div class="titulo-flecha">
-            <h2>🌍 IDIOMAS</h2>
+            <h2 class="icono">🌍 IDIOMAS</h2>
             <span class="flecha">▾</span>
           </div>
         </summary>
@@ -97,7 +97,7 @@
       <details>
         <summary>
           <div class="titulo-flecha">
-            <h2>🎸 EXPERIENCIA PROFESIONAL</h2>
+            <h2 class="icono">🎸 EXPERIENCIA PROFESIONAL</h2>
             <span class="flecha">▾</span>
           </div>
         </summary>
@@ -121,7 +121,7 @@
       <details>
         <summary>
           <div class="titulo-flecha">
-            <h2>🎶 OTROS DATOS</h2>
+            <h2 class="icono">🎶 OTROS DATOS</h2>
             <span class="flecha">▾</span>
           </div>
         </summary>
@@ -154,7 +154,7 @@
       <details open>
         <summary>
           <div class="titulo-flecha">
-            <h2>🔗 ENLACES</h2>
+            <h2 class="icono">🔗 ENLACES</h2>
             <span class="flecha">▾</span>
           </div>
         </summary>
@@ -172,3 +172,4 @@
 
 </body>
 </html>
+
