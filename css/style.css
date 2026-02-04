@@ -1,20 +1,37 @@
-/* ======== ESTILO GENERAL ======== */
-body {
-  background-color: #000;
+/* ======== FONDO CON DEGRADADO ======== */
+body.oscuro {
+  background: linear-gradient(180deg, #000000, #0a0a0a, #111);
   color: #fff;
-  font-family: "Segoe UI", Arial, sans-serif;
-  margin: 0;
-  padding: 0;
-  line-height: 1.6;
 }
 
+body.claro {
+  background: linear-gradient(180deg, #ffffff, #f2f2f2);
+  color: #000;
+}
+
+/* ======== BOTÓN MODO OSCURO/CLARO ======== */
+#modoToggle {
+  position: fixed;
+  top: 15px;
+  right: 15px;
+  padding: 10px 15px;
+  background: #39ff14;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  font-weight: bold;
+  color: #000;
+  box-shadow: 0 0 10px #39ff14;
+}
+
+/* ======== CONTENEDOR PRINCIPAL ======== */
 main {
   max-width: 900px;
   margin: auto;
   padding: 20px;
 }
 
-/* ======== ENCABEZADOS ======== */
+/* ======== ENCABEZADO ======== */
 h1 {
   font-size: 2.6rem;
   text-align: center;
@@ -22,15 +39,56 @@ h1 {
   color: #39ff14;
 }
 
+header p {
+  text-align: center;
+}
+
+/* ======== TITULOS ======== */
 h2 {
   font-size: 1.8rem;
   color: #39ff14;
-  margin-bottom: 5px;
 }
 
 h3 {
   font-size: 1.3rem;
   color: #00eaff;
+}
+
+/* ======== CUADROS CON GLOW VERDE ======== */
+details {
+  background: #111;
+  padding: 10px 15px;
+  margin-bottom: 20px;
+  border-radius: 6px;
+  border: 1px solid #39ff14;
+  box-shadow: 0 0 15px #39ff14;
+}
+
+/* ======== FLECHA MODERNA ======== */
+.titulo-flecha {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.flecha {
+  font-size: 1.4rem;
+  color: #39ff14;
+  transition: transform 0.3s ease;
+}
+
+details[open] .flecha {
+  transform: rotate(180deg);
+}
+
+/* ======== ANIMACIÓN DE APERTURA ======== */
+details[open] .contenido {
+  animation: abrir 0.4s ease-out;
+}
+
+@keyframes abrir {
+  from { opacity: 0; transform: translateY(-5px); }
+  to { opacity: 1; transform: translateY(0); }
 }
 
 /* ======== LISTAS ======== */
@@ -64,59 +122,6 @@ a:hover {
   to { opacity: 1; transform: translateY(0); }
 }
 
-/* ======== DETALLES (DESPLEGABLES) ======== */
-details {
-  background: #111;
-  padding: 10px 15px;
-  margin-bottom: 20px;
-  border-radius: 6px;
-  border: 1px solid #39ff14;
-  overflow: hidden;
-}
-
-summary {
-  cursor: pointer;
-  list-style: none;
-}
-
-summary::-webkit-details-marker {
-  display: none;
-}
-
-/* Contenedor del título + flecha */
-.titulo-flecha {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-}
-
-/* Flecha moderna tipo chevron */
-.flecha {
-  font-size: 1.4rem;
-  color: #39ff14;
-  transition: transform 0.3s ease;
-}
-
-/* Rotación suave al abrir */
-details[open] .flecha {
-  transform: rotate(180deg);
-}
-
-/* Animación del contenido */
-details[open] .contenido {
-  animation: abrir 0.4s ease-out;
-}
-
-@keyframes abrir {
-  from { opacity: 0; transform: translateY(-5px); }
-  to { opacity: 1; transform: translateY(0); }
-}
-
 /* ======== FOOTER ======== */
 footer {
-  text-align: center;
-  margin-top: 40px;
-  padding: 20px;
-  color: #aaa;
-  font-size: 0.9rem;
-}
+  text
