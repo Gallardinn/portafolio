@@ -19,19 +19,18 @@ h1 {
   font-size: 2.6rem;
   text-align: center;
   margin-top: 20px;
-  color: #39ff14; /* Verde fosforito */
+  color: #39ff14;
 }
 
 h2 {
   font-size: 1.8rem;
   color: #39ff14;
-  border-bottom: 2px solid #39ff14;
-  padding-bottom: 5px;
+  margin-bottom: 5px;
 }
 
 h3 {
   font-size: 1.3rem;
-  color: #00eaff; /* Azul eléctrico */
+  color: #00eaff;
 }
 
 /* ======== LISTAS ======== */
@@ -50,12 +49,20 @@ ul li {
 
 /* ======== ENLACES ======== */
 a {
-  color: #00aaff; /* Azul brillante */
+  color: #00aaff;
   text-decoration: none;
+  opacity: 0;
+  animation: aparecer 1s forwards;
 }
 
 a:hover {
   text-decoration: underline;
+}
+
+/* Animación suave para enlaces */
+@keyframes aparecer {
+  from { opacity: 0; transform: translateY(10px); }
+  to { opacity: 1; transform: translateY(0); }
 }
 
 /* ======== DETALLES (DESPLEGABLES) ======== */
@@ -65,19 +72,36 @@ details {
   margin-bottom: 20px;
   border-radius: 6px;
   border: 1px solid #39ff14;
+  overflow: hidden;
 }
 
 summary {
   cursor: pointer;
   list-style: none;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
 
 summary::-webkit-details-marker {
   display: none;
 }
 
-summary h2 {
-  display: inline;
+/* Flecha debajo del título */
+.flecha {
+  font-size: 1.4rem;
+  color: #39ff14;
+  margin-top: 5px;
+}
+
+/* Animación suave al abrir */
+details[open] .contenido {
+  animation: abrir 0.4s ease-out;
+}
+
+@keyframes abrir {
+  from { opacity: 0; transform: translateY(-5px); }
+  to { opacity: 1; transform: translateY(0); }
 }
 
 /* ======== FOOTER ======== */
@@ -88,4 +112,3 @@ footer {
   color: #aaa;
   font-size: 0.9rem;
 }
-
