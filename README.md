@@ -11,7 +11,7 @@
 
   <main>
     <header>
-      <h1>🎸 Músico y Educador</h1>
+      <h1><span class="icono">🎸</span> Músico y Educador</h1>
       <p>Guitarrista profesional, compositor, docente y apasionado por la música y la formación continua.</p>
     </header>
     <!-- FORMACIÓN -->
@@ -19,7 +19,7 @@
       <details>
         <summary>
           <div class="titulo-flecha">
-            <h2 class="icono">📚 FORMACIÓN</h2>
+            <h2><span class="icono">📚</span> FORMACIÓN</h2>
             <span class="flecha">▾</span>
           </div>
         </summary>
@@ -36,7 +36,7 @@
       <details>
         <summary>
           <div class="titulo-flecha">
-            <h2 class="icono">🎓 CURSOS</h2>
+            <h2><span class="icono">🎓</span> CURSOS</h2>
             <span class="flecha">▾</span>
           </div>
         </summary>
@@ -63,7 +63,7 @@
       <details>
         <summary>
           <div class="titulo-flecha">
-            <h2 class="icono">💻 CONOCIMIENTOS INFORMÁTICOS</h2>
+            <h2><span class="icono">💻</span> CONOCIMIENTOS INFORMÁTICOS</h2>
             <span class="flecha">▾</span>
           </div>
         </summary>
@@ -80,7 +80,7 @@
       <details>
         <summary>
           <div class="titulo-flecha">
-            <h2 class="icono">🌍 IDIOMAS</h2>
+            <h2><span class="icono">🌍</span> IDIOMAS</h2>
             <span class="flecha">▾</span>
           </div>
         </summary>
@@ -97,7 +97,7 @@
       <details>
         <summary>
           <div class="titulo-flecha">
-            <h2 class="icono">🎸 EXPERIENCIA PROFESIONAL</h2>
+            <h2><span class="icono">🎸</span> EXPERIENCIA PROFESIONAL</h2>
             <span class="flecha">▾</span>
           </div>
         </summary>
@@ -121,7 +121,7 @@
       <details>
         <summary>
           <div class="titulo-flecha">
-            <h2 class="icono">🎶 OTROS DATOS</h2>
+            <h2><span class="icono">🎶</span> OTROS DATOS</h2>
             <span class="flecha">▾</span>
           </div>
         </summary>
@@ -154,7 +154,7 @@
       <details open>
         <summary>
           <div class="titulo-flecha">
-            <h2 class="icono">🔗 ENLACES</h2>
+            <h2><span class="icono">🔗</span> ENLACES</h2>
             <span class="flecha">▾</span>
           </div>
         </summary>
@@ -172,4 +172,3 @@
 
 </body>
 </html>
-
