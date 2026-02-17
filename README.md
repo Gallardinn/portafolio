@@ -54,6 +54,8 @@
             <li>La música de John Williams — Tony Domenech</li>
             <li>Orquestación y arreglos — Tony Domenech</li>
             <li>Armonía moderna — Tony Domenech</li>
+            <li>Introducction to film scoring — Thinkspace</li>
+            <li>Composición para Cine — Tony Domenech</li>
           </ul>
         </div>
       </details>
@@ -70,7 +72,7 @@
         <div class="contenido">
           <ul>
             <li>Office, páginas web (Windows, iOS, Apple)</li>
-            <li>Sibelius, Finale, Cubase, Adobe Audition, Band in a Box</li>
+            <li>Sibelius, Finale, Cubase, Adobe Audition, Logic Pro, Band in a Box...</li>
           </ul>
         </div>
       </details>
@@ -87,7 +89,7 @@
         <div class="contenido">
           <ul>
             <li>Portugués intermedio — EOI (B1)</li>
-            <li>Inglés intermedio — EOI (B1.1)</li>
+            <li>Inglés intermedio — EOI (B1)</li>
           </ul>
         </div>
       </details>
@@ -109,7 +111,7 @@
             <li>Profesor particular desde 1990</li>
             <li>Actuaciones con bandas, orquestas y grupos</li>
             <li>Arreglos y composiciones para artistas</li>
-            <li>Más de 130 composiciones para el canal <strong>Teoría Musical</strong></li>
+            <li>Más de 140 composiciones para el canal <strong>Teoría Musical</strong></li>
             <li>Compositor para cortos y videojuegos</li>
             <li>Creador del videojuego “Las Aventuras del Sultán”</li>
           </ul>
@@ -139,7 +141,8 @@
           </ul>
           <h3>Tributos</h3>
           <ul>
-            <li>Getbackers, Sweet Jade, Memphis, La Movida, Garnacha-pop, Diversiones, M-Pop, MusicBox</li>
+            <li>Getbackers (The Beatles), Sweet Jade and The Monkeys (Amy Winehouse), Memphis,</li> 
+            <li>La Movida, Garnacha-pop, Diversiones, M-Pop, MusicBox</li>
             <li>Gato Negro, Enemigos de lo Ajeno, Maymona</li>
           </ul>
           <h3>Banda Municipal</h3>
