@@ -132,8 +132,9 @@
             <li>Actuaciones con bandas, orquestas y grupos</li>
             <li>Arreglos y composiciones para artistas</li>
             <li>Más de 140 composiciones para el canal <strong>Teoría Musical</strong></li>
-            <li>Compositor para cortos y videojuegos</li>
+            <li>Composiciones para cortos y videojuegos</li>
             <li>Creador del videojuego “Las Aventuras del Sultán”</li>
+            <li>Primer premio por el corto animado "Don´t change your robot"</li>
           </ul>
         </div>
       </details>
