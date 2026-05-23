@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="es">
 <head>
   <meta charset="UTF-8">
@@ -14,12 +13,11 @@
       <h1><span class="icono">🎸</span> Músico y Educador</h1>
       <p>Guitarrista profesional, compositor, docente y apasionado por la música y la formación continua.</p>
     </header>
-    <!-- FORMACIÓN -->
     <section>
       <details>
         <summary>
           <div class="titulo-flecha">
-           <h2><span class="icono">📚</span> FORMACIÓN</h2>
+            <h2><span class="icono">📚</span> FORMACIÓN</h2>
             <span class="flecha">▾</span>
           </div>
         </summary>
@@ -31,7 +29,6 @@
         </div>
       </details>
     </section>
-    <!-- CURSOS -->
     <section>
       <details>
         <summary>
@@ -43,24 +40,47 @@
         <div class="contenido">
           <ul>
             <li>CAP — UEX, Badajoz</li>
-            <li>Biomúsica — UEX, Badajoz</li>
+            <li>Introducción a la Musicoterapia (Biomúsica) — UEX, Badajoz</li>
             <li>Método Kodaly — Almendralejo</li>
             <li>Guitarra — Ciudad de Llerena (Javier Riba)</li>
             <li>Guitarra — Ciudad de Coria (Geller, Clerch, Gallén)</li>
             <li>Pedagogía de la guitarra — Carles Trepat</li>
             <li>Composición aplicada a la guitarra — Leo Brouwer</li>
+            <li>Guitarra de jazz — Nuno Ferreira</li>
             <li>Composición — Tony Domenech</li>
             <li>Rearmonización — Tony Domenech</li>
+            <li>Rearmonización — Antonio Romero</li>
             <li>La música de John Williams — Tony Domenech</li>
             <li>Orquestación y arreglos — Tony Domenech</li>
             <li>Armonía moderna — Tony Domenech</li>
-            <li>Introducction to film scoring — Thinkspace</li>
+            <li>Introduction to film scoring — Thinkspace Education</li>
+            <li>Introduction to film sound design — Thinkspace Education</li>
             <li>Composición para Cine — Tony Domenech</li>
+            <li>Inteligencia emocional y mindfulness</li>
+            <li>Nuevas tecnologías, pizarras digitales</li>
+            <li>Noteflight y su uso en el aula</li>
           </ul>
         </div>
       </details>
     </section>
-    <!-- INFORMÁTICA -->
+    <section>
+      <details>
+        <summary>
+          <div class="titulo-flecha">
+            <h2><span class="icono">👨‍🏫</span> MASTERCLASS</h2>
+            <span class="flecha">▾</span>
+          </div>
+        </summary>
+        <div class="contenido">
+          <ul>
+            <li>Pepe Romero</li>
+            <li>Javier Sánchez</li>
+            <li>Costas Costiolis</li>
+            <li>Adalisa Castellanet</li>
+          </ul>
+        </div>
+      </details>
+    </section>
     <section>
       <details>
         <summary>
@@ -77,7 +97,6 @@
         </div>
       </details>
     </section>
-    <!-- IDIOMAS -->
     <section>
       <details>
         <summary>
@@ -94,7 +113,6 @@
         </div>
       </details>
     </section>
-    <!-- EXPERIENCIA PROFESIONAL -->
     <section>
       <details>
         <summary>
@@ -118,7 +136,6 @@
         </div>
       </details>
     </section>
-    <!-- OTROS DATOS -->
     <section>
       <details>
         <summary>
@@ -136,23 +153,23 @@
           <h3>Grupos originales</h3>
           <ul>
             <li>Vehemencia, Serios Incidentes, Gallardín, Winter Moon, Lunendei, Medieval's Night</li>
-            <li>Hey Folks!, Ex Be-bop, Watermelon Big Band, Jazzpacho, Paka Manchón Group</li>
+            <li>Hey Folks!, Ex Be-bop, Watermelon Big Band, Jazzpacho, Paka Manchón Group, Chirigota K2X3 de Olivenza</li>
             <li>Luzero</li>
           </ul>
           <h3>Tributos</h3>
           <ul>
-            <li>Getbackers (The Beatles), Sweet Jade and The Monkeys (Amy Winehouse), Memphis,</li> 
+            <li>Getbackers (The Beatles), Sweet Jade and The Monkeys (Amy Winehouse), Memphis</li> 
             <li>La Movida, Garnacha-pop, Diversiones, M-Pop, MusicBox</li>
             <li>Gato Negro, Enemigos de lo Ajeno, Maymona</li>
           </ul>
           <h3>Banda Municipal</h3>
           <p>Trompista y trombonista en Almendralejo (1985–2010).</p>
+          <p>Colaboraciones en bandas: Ribera del Fresno, Hornachos, Fuente de Cantos, Aceuchal, Oliva de Mérida...</p>
           <h3>🚗 Carnet de conducir</h3>
           <p>B1 (vehículo propio)</p>
         </div>
       </details>
     </section>
-    <!-- ENLACES -->
     <section>
       <details open>
         <summary>
@@ -172,6 +189,7 @@
     </footer>
 
   </main>
-
+</body>
+</html>
 </body>
 </html>
