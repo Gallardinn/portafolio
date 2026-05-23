@@ -24,7 +24,9 @@
         <div class="contenido">
           <ul>
             <li>Título Superior en Guitarra — Conservatorio Rafael Orozco (Córdoba), 2011</li>
+            <li>Título profesional de música (Guitarra)  — COM Almendralejo (Badajoz), 2003</li>
             <li>Técnico en Guitarra Eléctrica — COM Almendralejo (Badajoz), 2016</li>
+            <li>Grado elemental en Contrabajo — COM Almendralejo (Badajoz), 2002</li>
           </ul>
         </div>
       </details>
