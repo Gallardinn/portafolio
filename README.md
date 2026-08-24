@@ -174,7 +174,7 @@
           <h3>Orquestas</h3>
           <ul>
             <li>Fantasía Show, Aire Joven, Dirección Sur, Nueva Fase, Carmona</li>
-            <li>Colaboraciones: Tres en Raya, Tyama, Ácido, Cobalto, Suroeste (SOS)Nueva Sinfonía</li>
+            <li>Colaboraciones: Tres en Raya, Tyama, Ácido, Cobalto, Suroeste (SOS), Nueva Sinfonía</li>
           </ul>
           <h3>Grupos originales</h3>
           <ul>
