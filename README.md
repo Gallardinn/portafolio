@@ -75,10 +75,11 @@
         </summary>
         <div class="contenido">
           <ul>
-            <li>Pepe Romero</li>
-            <li>Javier Sánchez</li>
-            <li>Costas Costiolis</li>
-            <li>Adalisa Castellanet</li>
+            <li>Guitarra clásica: Pepe Romero</li>
+            <li>Guitarra clásica: Costas Costiolis</li>
+            <li>Guitarra clásica: Adalisa Castellanet</li>
+            <li>Guitarra eléctrica: Javier Sánchez</li>
+            <li>100 años de música en el cine: Leonardo D´Atri </li>
           </ul>
         </div>
       </details>
@@ -95,6 +96,30 @@
           <ul>
             <li>Office, páginas web (Windows, iOS, Apple)</li>
             <li>Sibelius, Finale, Cubase, Adobe Audition, Logic Pro, Band in a Box...</li>
+            <li>Fmod, Godot</li>
+          </ul>
+        </div>
+      </details>
+    </section>
+    <!-- NUEVA SECCIÓN: VIDEOJUEGOS -->
+    <section>
+      <details>
+        <summary>
+          <div class="titulo-flecha">
+            <h2><span class="icono">🎮</span> VIDEOJUEGOS Y AUDIOVISUALES</h2>
+            <span class="flecha">▾</span>
+          </div>
+        </summary>
+        <div class="contenido">
+          <ul>
+            <li>Creador y desarrollador del videojuego <strong>“Las Aventuras del Sultán”</strong></li>
+            <li>Composición musical interactiva y diseño de sonido para videojuegos</li>
+            <li>Primer premio por el corto animado <strong>"Don't change your robot"</strong> (Composición / Banda Sonora)</li>
+            <li>Implementación y middleware de audio: <strong>FMOD</strong>, <strong>Godot Engine</strong> y <strong>Unity</strong></li>
+            <li>Formación especializada en <i>Film Scoring</i> y <i>Sound Design</i> (Thinkspace Education)</li>
+            <li>Música para los videojuegos: My Friendly Rabbit, Eryndor, Recoil, Song Birds</li>
+            <li>Game jams: Dale caña a la piñata, Crunchy wings</li>
+            <li>Sound Efects: Box Bunny</li>
           </ul>
         </div>
       </details>
@@ -131,10 +156,8 @@
             <li>Profesor particular desde 1990</li>
             <li>Actuaciones con bandas, orquestas y grupos</li>
             <li>Arreglos y composiciones para artistas</li>
-            <li>Más de 140 composiciones para el canal <strong>Teoría Musical</strong></li>
+            <li>Más de 150 composiciones para el canal <strong>Teoría Musical</strong></li>
             <li>Composiciones para cortos y videojuegos</li>
-            <li>Creador del videojuego “Las Aventuras del Sultán”</li>
-            <li>Primer premio por el corto animado "Don´t change your robot"</li>
           </ul>
         </div>
       </details>
@@ -151,18 +174,18 @@
           <h3>Orquestas</h3>
           <ul>
             <li>Fantasía Show, Aire Joven, Dirección Sur, Nueva Fase, Carmona</li>
-            <li>Colaboraciones: Tres en Raya, Tyama, Ácido, Cobalto, Suroeste (SOS)</li>
+            <li>Colaboraciones: Tres en Raya, Tyama, Ácido, Cobalto, Suroeste (SOS)Nueva Sinfonía</li>
           </ul>
           <h3>Grupos originales</h3>
           <ul>
             <li>Vehemencia, Serios Incidentes, Gallardín, Winter Moon, Lunendei, Medieval's Night</li>
-            <li>Hey Folks!, Ex Be-bop, Watermelon Big Band, Jazzpacho, Paka Manchón Group, Chirigota K2X3 de Olivenza</li>
-            <li>Luzero</li>
+            <li>Hey Folks!, Ex Be-bop, Watermelon Big Band, Jazzpacho, Paka Manchón Group</li>
+            <li>Luzero, Chirigota K2X3 (Olivenza)</li>
           </ul>
           <h3>Tributos</h3>
           <ul>
             <li>Getbackers (The Beatles), Sweet Jade and The Monkeys (Amy Winehouse), Memphis</li> 
-            <li>La Movida, Garnacha-pop, Diversiones, M-Pop, MusicBox</li>
+            <li>La Movida, Garnacha-pop, Diversiones, M-Pop, MusicBox, La última y nos vamos</li>
             <li>Gato Negro, Enemigos de lo Ajeno, Maymona</li>
           </ul>
           <h3>Banda Municipal</h3>
@@ -192,7 +215,5 @@
     </footer>
 
   </main>
-</body>
-</html>
 </body>
 </html>
